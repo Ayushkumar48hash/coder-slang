@@ -5,8 +5,8 @@
 - 📫 How to reach me in my carrier field..
 - 😄 Pronouns: Coder_slang...
 - ⚡ Fun fact: I like to do programs in night...
+- 🚿 i shower only once a month
 
-<!---
 coder-slang/coder-slang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
